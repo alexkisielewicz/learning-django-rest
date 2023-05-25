@@ -56,7 +56,8 @@ INSTALLED_APPS = [
     
     # own
     
-    'profiles'
+    'profiles',
+    'posts',
 ]
 
 MIDDLEWARE = [
